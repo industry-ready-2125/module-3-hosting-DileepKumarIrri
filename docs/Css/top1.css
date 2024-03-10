@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom,rgb(0, 255, 238,0.4),white);
+}
+.Hea{
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    border: 10px;
+    box-shadow: 0 0 10px rgb(0,0,0,0.7  );
+     border-radius: 10px;
+    background: linear-gradient(white,rgba(0,255,255,0.4));
+
+}

@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background: radial-gradient(white,rgb(0, 255, 238,0.5));
+}
+
+.top {
+    /* Add styles for the top section if needed */
+             flex: 1;
+            text-align: center;
+            padding: 20px;
+            font-family:Philosopher, sans-serif;
+}
+
+.left {
+    /* Styles for the left section (Tools) */
+    flex: 1;
+    padding: 20px;
+}
+
+.right {
+    /* Styles for the right section (Skills) */
+    flex: 1;
+    padding: 20px;
+}
